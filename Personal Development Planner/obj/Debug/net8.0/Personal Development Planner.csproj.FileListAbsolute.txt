@@ -1,0 +1,26 @@
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/obj/Debug/net8.0/Personal Development Planner.csproj.AssemblyReference.cache
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/obj/Debug/net8.0/Personal Development Planner.GeneratedMSBuildEditorConfig.editorconfig
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/obj/Debug/net8.0/Personal Development Planner.AssemblyInfoInputs.cache
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/obj/Debug/net8.0/Personal Development Planner.AssemblyInfo.cs
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/obj/Debug/net8.0/Personal Development Planner.csproj.CoreCompileInputs.cache
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/Personal Development Planner
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/Personal Development Planner.deps.json
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/Personal Development Planner.runtimeconfig.json
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/Personal Development Planner.dll
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/Personal Development Planner.pdb
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/Spectre.Console.dll
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/obj/Debug/net8.0/Personal Development Planner.csproj.CopyComplete
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/obj/Debug/net8.0/Personal Development Planner.dll
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/obj/Debug/net8.0/refint/Personal Development Planner.dll
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/obj/Debug/net8.0/Personal Development Planner.pdb
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/obj/Debug/net8.0/Personal Development Planner.genruntimeconfig.cache
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/obj/Debug/net8.0/ref/Personal Development Planner.dll
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/Gat.Controls.MessageBox.dll
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/CliFx.dll
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/Colorful.Console.dll
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/NAudio.dll
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/NAudio.Asio.dll
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/NAudio.Core.dll
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/NAudio.Midi.dll
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/NAudio.Wasapi.dll
+/home/asrorbek-abrorov/RiderProjects/Personal Development Planner/Personal Development Planner/bin/Debug/net8.0/NAudio.WinMM.dll
